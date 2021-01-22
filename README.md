@@ -22,7 +22,7 @@ Unless otherwised noted, all of our samples are licensed under the [MIT License]
 |Sample|Description|Technology|
 |------|-----------|---------------|
 |[lws-employee-crud](https://github.com/nuwavetech/lws-employee-crud)|Retrieve and update employee information using a web app and Amazon Alexa.|Web, [Alexa](https://developer.amazon.com/en-US/alexa)|
-|[lws-nonstop-explorer](https://github.com/nuwavetech/lws-android)|View NonStop Server information from a web or mobile app.|Web, [Android](https://developer.android.com/)|
+|[lws-nonstop-explorer](https://github.com/nuwavetech/lws-nonstop-explorer)|View NonStop Server information from a web or mobile app.|Web, [Android](https://developer.android.com/)|
 
 ### LightWave Platform Samples
 Samples that use both LightWave Client & LightWave Server
