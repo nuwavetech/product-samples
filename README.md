@@ -17,6 +17,7 @@ Unless otherwised noted, all of our samples are licensed under the [MIT License]
 |[lwc-okta-client-credentials-flow](https://github.com/nuwavetech/lwc-okta-client-credentials-flow)|Retrieve, validate, and revoke OAuth 2 access tokens using the Okta Identity Service.|[Okta](https://www.okta.com/)|
 |[lwc-open-exchange-rates](https://github.com/nuwavetech/lwc-open-exchange-rates)|Retrieve foreign exchange rates provided by the Open Exchange Rates REST API|[Open Exchange Rates](https://openexchangerates.org/)|
 |[lwc-rabbitmq](https://github.com/nuwavetech/lwc-rabbitmq)|Publish and retrieve queue events from RabbitMQ.|[RabbitMQ](https://rabbitmq.com)|
+|[lwc-cybersource-ics](https://github.com/nuwavetech/lwc-cybersource-ics)|Submit transaction requests to the CyberSource Internet Commerce Suite (ICS) web service. This sample shows how LWC can be used to access SOAP web services.|[Cybersource](https://www.cybersource.com)|
 
 ### LightWave Server Samples
 |Sample|Description|Technology|
