@@ -12,7 +12,6 @@ Unless otherwised noted, all of our samples are licensed under the [MIT License]
 |Sample|Description|Technology|
 |------|-----------|---------------|
 |[lwc-aws-security-token-service](https://github.com/nuwavetech/lwc-aws-security-token-service)|Assume an IAM role for use with requests to other AWS services.|[AWS STS](https://docs.aws.amazon.com/STS/latest/APIReference/welcome.html)|
-|[lwc-aws-simple-notification-service](https://github.com/nuwavetech/lwc-aws-simple-notification-service)|Send SMS message or publish to SNS Topics.|[AWS SNS](https://docs.aws.amazon.com/sns/latest/api/Welcome.html)|
 |[lwc-geocode](https://github.com/nuwavetech/lwc-geocode)|Use the Google Geocoding API to lookup and convert addresses into geographic coordinates.|[Google Geocoding](https://developers.google.com/maps/documentation/geocoding/overview)|
 |[lwc-okta-client-credentials-flow](https://github.com/nuwavetech/lwc-okta-client-credentials-flow)|Retrieve, validate, and revoke OAuth 2 access tokens using the Okta Identity Service.|[Okta](https://www.okta.com/)|
 |[lwc-open-exchange-rates](https://github.com/nuwavetech/lwc-open-exchange-rates)|Retrieve foreign exchange rates provided by the Open Exchange Rates REST API|[Open Exchange Rates](https://openexchangerates.org/)|
